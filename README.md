@@ -2,7 +2,7 @@
 Prevents errors when loading a save file with removed Spell/Skill IDs.
 
 ## Features
-- Checks the save file for nonexistance Spells/Skills and removes them before loading the character.
+- Checks the save file for invalid Spell/Skill IDs and removes them before loading the character.
 
 ## Installation
 - Requires [BepInEx](https://github.com/BepInEx/BepInEx)
